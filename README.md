@@ -14,7 +14,7 @@
 
 
 <p align="center">
-<a href="https://youtu.be/OPyFbniiCfA">D</a>
+<a href="https://youtu.be/OPyFbniiCfA">Demo</a>
 </p>
 
 <h2 id="technologies">💻 Technologies</h2>
