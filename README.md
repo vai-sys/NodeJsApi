@@ -13,9 +13,7 @@
 <p align="center">A simple Node.js API using Express and MySQL to manage schools.</p>
 
 
-<p align="center">
-<a href="https://youtu.be/OPyFbniiCfA">Demo</a>
-</p>
+
 
 <h2 id="technologies">💻 Technologies</h2>
 
